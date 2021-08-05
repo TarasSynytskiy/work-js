@@ -41,28 +41,3 @@ userCommentBtn.onclick = function () {
 
 
 
-
-
-// const posts = document.getElementById('post');
-//
-//
-//             const userPost = document.createElement('div');
-//             userPost.style.backgroundColor = 'red';
-//             userPost.style.padding = '20px';
-//             userPost.style.margin = '10px';
-//
-// for (const post of userPost) {
-//     userPost.innerText = `${post}, ${post[posts]};`
-//
-//     const postOfPosts = document.createElement('p');
-//
-//     userPost.append(postOfPosts);
-//
-// }
-// posts.append(userPost);
-//
-//         fetch(`https://jsonplaceholder.typicode.com/post/${post.id}/comments`)
-//             .then((json) => json.json())
-//             .then((posts) => {
-//
-//             })
